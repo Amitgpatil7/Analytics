@@ -1,2 +1,3 @@
 # Analytics
-Author - Amit G Patil
+
+Author - Amit G Patil (Analytics)
